@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# HackOps AI
 
-# Run and deploy your AI Studio app
+### Where AI Meets Human Innovation
 
-This contains everything you need to run your app locally.
+HackOps AI is an AI-based next-generation hackathon platform that aims to change the entire hackathon experience for participants, mentors, organizers, judges, sponsors, and recruiters.
 
-View your app in AI Studio: https://ai.studio/apps/df95fd74-81ce-40b7-8208-75650a3675ab
+The platform uses artificial intelligence to automate team formation, offer real-time technical mentoring, evaluate projects smartly, connect developers around the world, and help recruiters find top talent—all from one platform.
 
-## Run Locally
+## Key Features
 
-**Prerequisites:**  Node.js
+AI Team Matchmaking  
+Match with the best teammates based on skills, interests, experience, and project goals.
 
+AI Mentor Assistant  
+A 24/7 AI-powered mentor that provides coding help, debugging support, project guidance, interview preparation, and hackathon assistance.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+AI Project Evaluation  
+Get fair AI-based project evaluation with detailed scores, strengths, weaknesses, suggestions for improvements, and chances of winning the hackathon.
+
+Global Hacker Networking  
+Connect with developers, mentors, and innovators worldwide through AI-powered networking, team invitations, and collaboration.
+
+Real-Time Leaderboard  
+Track rankings, achievements, and live hackathon progress.
+
+Certificates & Analytics  
+Generate digital certificates and access detailed hackathon performance analytics.
+
+---
+
+## Tech Stack
+
+- React
+- Firebase Authentication
+- Firestore Database
+- Gemini API
+- Tailwind CSS
+- AI-powered Automation
+
+---
